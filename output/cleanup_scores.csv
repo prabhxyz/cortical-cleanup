@@ -1,0 +1,3 @@
+filename,leftover_ratio,cleanup_score
+clean.png,0.0899,Excellent
+not_clean.png,0.9162,Significant
